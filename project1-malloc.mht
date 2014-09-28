@@ -1,0 +1,2389 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01CF2BC9.5B5769F0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01CF2BC9.5B5769F0
+Content-Location: file:///C:/2047BE43/project1-malloc.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"project1-malloc_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>200391003</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>AM</o:LastAuthor>
+  <o:Revision>49</o:Revision>
+  <o:TotalTime>405</o:TotalTime>
+  <o:LastPrinted>2013-04-05T06:33:00Z</o:LastPrinted>
+  <o:Created>2013-03-26T08:57:00Z</o:Created>
+  <o:LastSaved>2014-02-17T04:46:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>2063</o:Words>
+  <o:Characters>11760</o:Characters>
+  <o:Company>DAIICT</o:Company>
+  <o:Lines>98</o:Lines>
+  <o:Paragraphs>27</o:Paragraphs>
+  <o:CharactersWithSpaces>13796</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"project1-malloc_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"project1-malloc_files/colorschememap=
+ping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>118</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   Name=3D"Placeholder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
+=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Courier;
+	panose-1:2 7 4 9 2 2 5 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-alt:\BC14\D0D5;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-alt:\BC14\D0D5;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:"\@Batang";
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-520092929 1073806591 9 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Batang;
+	font-weight:bold;}
+h2
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Batang;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+code
+	{mso-style-unhide:no;
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+pre
+	{mso-style-unhide:no;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 41=
+2.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
+raphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
+agraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
+phCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	font-weight:bold;}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"HTML Preformatted";
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	mso-bidi-font-family:Consolas;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:21054975;
+	mso-list-template-ids:-228062878;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:253443827;
+	mso-list-template-ids:1258031732;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:386683737;
+	mso-list-template-ids:-1723333094;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:411438940;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1283413210 67698689 67698691 67698693 67698689 6769=
+8691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:887496506;
+	mso-list-template-ids:1328560176;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:1111702606;
+	mso-list-template-ids:-1678240276;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:1234051928;
+	mso-list-template-ids:1296493852;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l6:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7
+	{mso-list-id:1385719244;
+	mso-list-type:hybrid;
+	mso-list-template-ids:411599798 67698689 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l7:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l8
+	{mso-list-id:1763333145;
+	mso-list-template-ids:223118794;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l8:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dblue style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<h1>Project #1 &#8211; <span class=3DSpellE>Malloc</span> (Due via <span
+class=3DSpellE>moodle</span>: 21:55 hrs, Monday, March 3)</h1>
+
+<p>In this project you will be writing a dynamic storage allocator for C
+programs, i.e., your own version of the <span class=3DSpellE><span
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>malloc</span=
+></span>,
+<span style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>free</=
+span>,
+and <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-=
+font-style:
+italic'>realloc</span></span> routines.&nbsp; You are encouraged to explore=
+ the
+design space creatively and implement an allocator that is correct, efficie=
+nt,
+and fast.</p>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Description</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Y=
+our
+dynamic storage allocator will consist of the following four functions, whi=
+ch
+are declared in <span class=3DSpellE><span style=3D'font-family:"Courier Ne=
+w";
+mso-bidi-font-style:italic'>mm.h</span></span> and defined in <span
+class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-style=
+:italic'>mm.c</span></span>.&nbsp;
+</p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo1;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>int</span></code></span><code><span
+     style=3D'font-size:10.0pt'> <span class=3DSpellE>mm_init</span>(void);=
+</span></code>
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo1;tab-stops:list .5in'><code><span style=3D'font=
+-size:
+     10.0pt'>void *<span class=3DSpellE>mm_malloc</span>(<span class=3DSpel=
+lE>size_t</span>
+     size);</span></code> </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo1;tab-stops:list .5in'><code><span style=3D'font=
+-size:
+     10.0pt'>void <span class=3DSpellE>mm_free</span>(void *<span class=3DS=
+pellE>ptr</span>);</span></code>
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo1;tab-stops:list .5in'><code><span style=3D'font=
+-size:
+     10.0pt'>void *<span class=3DSpellE>mm_realloc</span>(void *<span
+     class=3DSpellE>ptr</span>, <span class=3DSpellE>size_t</span> size);</=
+span></code>
+     </li>
+</ul>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>T=
+he
+<span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font=
+-style:
+italic'>mm.c</span></span> file we have given you implements a simple memory
+allocator based on an implicit free list, first fit placement, and boundary=
+ tag
+coalescing, as described in the textbook.&nbsp; Using this as a starting pl=
+ace,
+modify these functions (and possibly define other private <i>static</i>
+functions), so that they obey the following semantics:&nbsp; </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_init=
+</span></span>:&nbsp;
+     Before calling <span class=3DSpellE><span style=3D'font-family:"Courie=
+r New";
+     mso-bidi-font-style:italic'>mm_malloc</span></span>, <span class=3DSpe=
+llE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_real=
+loc</span></span>,
+     or <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-b=
+idi-font-style:
+     italic'>mm_free</span></span>, the application program (i.e., the
+     trace-driven driver program that you will use to evaluate your
+     implementation) calls <span class=3DSpellE><span style=3D'font-family:=
+"Courier New";
+     mso-bidi-font-style:italic'>mm_init</span></span> to perform any neces=
+sary
+     initializations, such as allocating the initial heap area.&nbsp; The
+     return value should be &#8722;1 if there was a problem in performing t=
+he
+     initialization, 0 otherwise.&nbsp; </li>
+</ul>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+margin-left:.5in'><span style=3D'mso-bidi-font-style:italic'>The driver wil=
+l call
+</span><span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bi=
+di-font-style:
+italic'>mm_init</span></span><span style=3D'mso-bidi-font-style:italic'> be=
+fore
+running each trace (and after resetting the </span><span class=3DSpellE><sp=
+an
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>brk</span></=
+span><span
+style=3D'mso-bidi-font-style:italic'> pointer). Therefore, your </span><span
+class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-style=
+:italic'>mm_init</span></span><span
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'> </span><span
+style=3D'mso-bidi-font-style:italic'>function should be able to reinitializ=
+e all
+state in your allocator each time it is called. In other words, you should =
+not
+assume that it will only be called once.</span></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_mall=
+oc</span></span>:&nbsp;
+     The <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-=
+bidi-font-style:
+     italic'>mm_malloc</span></span> routine returns a pointer to an alloca=
+ted
+     block payload of at least <span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'>size</span> bytes.&nbsp; The entire alloca=
+ted
+     block should lie within the heap region and should not overlap with any
+     other allocated chunk.&nbsp; We will compare your implementation to the
+     version of <span class=3DSpellE><span style=3D'font-family:"Courier Ne=
+w"'>malloc</span></span>
+     supplied in the standard C library (<span class=3DSpellE><span
+     style=3D'font-family:"Courier New"'>libc</span></span>). Since the <sp=
+an
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>libc</span></span><i> </i><span class=3DSpellE><span
+     style=3D'mso-bidi-font-style:italic'>malloc</span></span> always retur=
+ns
+     payload pointers that are aligned to 8 bytes, your <span class=3DSpell=
+E>malloc</span>
+     implementation should do likewise and always return 8-byte aligned
+     pointers. </li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;margin-left:.5in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-list:l6 level1 =
+lfo2;
+     tab-stops:list .5in'><span class=3DSpellE><span style=3D'font-family:"=
+Courier New";
+     mso-bidi-font-style:italic'>mm_free</span></span>:&nbsp; The <span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>mm_free</span></span> routine frees the block pointed to by <s=
+pan
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>ptr</span></span>.&nbsp; It returns nothing.&nbsp; This routin=
+e is
+     only guaranteed to work when the passed pointer (<span class=3DSpellE>=
+<span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>ptr</sp=
+an></span>)
+     was returned by an earlier call to <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_mall=
+oc</span></span>
+     or <span class=3DSpellE><span style=3D'font-family:"Courier New"'>mm_r=
+ealloc</span></span>
+     has not yet been freed.&nbsp; </li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l6 level1 lfo2;tab-stops:list .5in'><span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>mm_realloc</span></span>:&nbsp; The <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_real=
+loc</span></span>
+     routine returns a pointer to an allocated region of at least <span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>size</s=
+pan><span
+     style=3D'font-family:"Courier New"'> </span>bytes with the following
+     constraints:&nbsp; </li>
+ <ul type=3Dcircle>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;line-height:150%;mso-list:l6 level2 lfo2;tab-stops:list 1.0in'>i=
+f <span
+      class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font=
+-style:
+      italic'>ptr</span></span><span style=3D'font-family:"Courier New"'> <=
+/span>is
+      NULL, the call is equivalent to <span class=3DSpellE><span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_mal=
+loc</span></span><span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>(size)=
+</span>;
+      </li>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;line-height:150%;mso-list:l6 level2 lfo2;tab-stops:list 1.0in'>i=
+f <span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>size</=
+span>
+      is equal to zero, the call is equivalent to <span class=3DSpellE><span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_fre=
+e</span></span><span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>(<span
+      class=3DSpellE>ptr</span>)</span>; </li>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;mso-list:l6 level2 lfo2;tab-stops:list 1.0in'><span class=3DGram=
+E>if</span>
+      <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bid=
+i-font-style:
+      italic'>ptr</span></span> is not NULL, it must have been returned by =
+an
+      earlier call to <span class=3DSpellE><span style=3D'font-family:"Cour=
+ier New";
+      mso-bidi-font-style:italic'>mm_malloc</span></span> or <span
+      class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font=
+-style:
+      italic'>mm_realloc</span></span>.&nbsp; The call to <span class=3DSpe=
+llE><span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_rea=
+lloc</span></span>
+      changes the size of the memory block pointed to by <span class=3DSpel=
+lE><span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>ptr</s=
+pan></span><span
+      style=3D'font-family:"Courier New"'> </span>(the <i>old block</i>) to=
+ <span
+      style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>size</=
+span><span
+      style=3D'font-family:"Courier New"'> </span>bytes and returns the add=
+ress
+      of the new block.&nbsp; Notice that the address of the new block migh=
+t be
+      the same as the old block, or it might be different, depending on your
+      implementation, the amount of internal fragmentation in the old block,
+      and the size of the <span class=3DSpellE><span style=3D'font-family:"=
+Courier New";
+      mso-bidi-font-style:italic'>realloc</span></span> request.&nbsp; </li>
+ </ul>
+</ul>
+
+<p style=3D'margin-left:1.0in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>The
+contents of the new block are the same as those of the old <span class=3DSp=
+ellE><span
+style=3D'font-family:"Courier New"'>ptr</span></span><span style=3D'font-fa=
+mily:
+"Courier New"'> </span>block, up to the minimum of the old and new sizes.&n=
+bsp;
+Everything else is uninitialized.&nbsp; For example, if the old block is 8
+bytes and the new block is 12 bytes, then the first 8 bytes of the new block
+are identical to the first 8 bytes of the old block and the last 4 bytes are
+uninitialized.&nbsp; Similarly, if the old block is 8 bytes and the new blo=
+ck
+is 4 bytes, then the contents of the new block are identical to the first 4
+bytes of the old block.&nbsp; </p>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>These
+semantics must match the semantics of the corresponding <span class=3DSpell=
+E><span
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>libc</span><=
+/span><span
+style=3D'font-family:"Courier New"'> <span class=3DSpellE><span style=3D'ms=
+o-bidi-font-style:
+italic'>malloc</span></span></span>, <span class=3DSpellE><span style=3D'fo=
+nt-family:
+"Courier New";mso-bidi-font-style:italic'>realloc</span></span>, and <span
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>free</span><=
+span
+style=3D'font-family:"Courier New"'> </span>routines.&nbsp; <span class=3DG=
+ramE>Type
+<span style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>man <s=
+pan
+class=3DSpellE>malloc</span></span><span style=3D'font-family:"Courier New"=
+'> </span>for
+complete documentation.</span>&nbsp; </p>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Heap
+Consistency Checker</h2>
+
+<p>Dynamic memory allocators are notoriously tricky to program correctly and
+efficiently.&nbsp; They are difficult to program correctly because they inv=
+olve
+a lot of <span class=3DSpellE>untyped</span> pointer manipulation.&nbsp; Yo=
+u will
+find it very helpful to write a heap checker that scans the heap and checks=
+ it
+for consistency.&nbsp; </p>
+
+<p>Some examples of what a heap checker might check are:&nbsp; </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l8 level1 lfo3;tab-stops:list .5in'>Is every
+     block in the free list marked as free?&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l8 level1 lfo3;tab-stops:list .5in'>Are there
+     any contiguous free blocks that somehow escaped coalescing?&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l8 level1 lfo3;tab-stops:list .5in'>Is every
+     free block actually in the free list?&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l8 level1 lfo3;tab-stops:list .5in'>Do the
+     pointers in the free list point to valid free blocks?&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l8 level1 lfo3;tab-stops:list .5in'>Do any
+     allocated blocks overlap?&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l8 level1 lfo3;tab-stops:list .5in'>Do the pointers in a heap
+     block point to valid heap addresses?&nbsp; </li>
+</ul>
+
+<p>Your heap checker will consist of the function <span style=3D'font-famil=
+y:
+"Courier New";mso-bidi-font-style:italic'>void <span class=3DSpellE><span
+class=3DGramE>checkheap</span></span><span class=3DGramE>(</span><span
+class=3DSpellE>bool</span> verbose)</span><span style=3D'font-family:"Couri=
+er New"'>
+</span>in <span class=3DSpellE><span style=3D'font-family:"Courier New";mso=
+-bidi-font-style:
+italic'>mm.c</span></span>.&nbsp; This function should check any invariants=
+ or
+consistency conditions that you consider prudent.&nbsp; It should print out=
+ a
+descriptive error message when it discovers an inconsistency in the heap.&n=
+bsp;
+You are not limited to the listed suggestions nor are you required to check=
+ all
+of them.&nbsp;<span style=3D'mso-spacerun:yes'>&nbsp; </span>&nbsp; </p>
+
+<p>This consistency checker is intended to help you with debugging your mem=
+ory
+allocator during development.&nbsp;However, the provided implementation of =
+<span
+class=3DSpellE><span style=3D'font-family:"Courier New"'>checkheap</span></=
+span> is
+only suited to a memory allocator that is based on an implicit free list. S=
+o,
+as you replace parts of the provided memory allocator, you should update the
+implementation of <span class=3DSpellE><span style=3D'font-family:"Courier =
+New"'>checkheap</span></span>.
+Style points will be given for your <span class=3DSpellE><span style=3D'fon=
+t-family:
+"Courier New"'>checkheap</span></span> function. Make sure to put in commen=
+ts
+and document what you are checking.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span></p>
+
+<p>When you submit <span class=3DSpellE><span style=3D'font-family:"Courier=
+ New";
+mso-bidi-font-style:italic'>mm.c</span></span>, make sure to remove any cal=
+ls
+to <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-f=
+ont-style:
+italic'>checkheap</span></span> as they will slow down your
+throughput.&nbsp;<span style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Support
+Routines</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>T=
+he
+<span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font=
+-style:
+italic'>memlib.c</span></span><span style=3D'font-family:"Courier New"'> </=
+span>package
+simulates the memory system for your dynamic memory allocator.&nbsp; You can
+invoke the following functions in <span class=3DSpellE><span style=3D'font-=
+family:
+"Courier New";mso-bidi-font-style:italic'>memlib.c</span></span>:&nbsp; </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormalCxSpFirst style=3D'mso-margin-top-alt:auto;mso-margin=
+-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l1 level1 lfo4;tab-stops:list .5in'><=
+span
+     class=3DGramE><span style=3D'font-family:"Courier New";mso-bidi-font-s=
+tyle:
+     italic'>void</span></span><span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'> *<span class=3DSpellE>mem_sbrk</span>(<sp=
+an
+     class=3DSpellE>intptr_t</span> <span class=3DSpellE>incr</span>)</span=
+>:&nbsp;
+     Expands the heap by <span class=3DSpellE><span style=3D'font-family:"C=
+ourier New";
+     mso-bidi-font-style:italic'>incr</span></span><span style=3D'font-fami=
+ly:
+     "Courier New"'> </span>bytes, where <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>incr</s=
+pan></span><span
+     style=3D'font-family:"Courier New"'> </span>is a positive non-zero int=
+eger
+     and returns a generic pointer to the first byte of the newly allocated
+     heap area.&nbsp;If there is an error, it returns (void *)-1.<span
+     style=3D'mso-spacerun:yes'>&nbsp; </span>The semantics are based on th=
+e <span
+     class=3DGramE>Unix</span> <span class=3DSpellE><span style=3D'font-fam=
+ily:"Courier New";
+     mso-bidi-font-style:italic'>sbrk</span></span><span style=3D'font-fami=
+ly:
+     "Courier New"'> </span>function, except that <span class=3DSpellE><span
+     style=3D'font-family:"Courier New"'>mem_sbrk</span></span> accepts onl=
+y a
+     positive non-zero integer argument. </li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;margin-left:.5in;mso-add-space:auto'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l1 level1 lfo4;tab-stops:list .5in'><span
+     class=3DGramE><span style=3D'font-family:"Courier New";mso-bidi-font-s=
+tyle:
+     italic'>void</span></span><span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'> *<span class=3DSpellE>mem_heap_lo</span>(=
+void)</span>:&nbsp;
+     Returns a generic pointer to the first byte in the heap.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l1 level1 lfo4;tab-stops:list .5in'><span
+     class=3DGramE><span style=3D'font-family:"Courier New";mso-bidi-font-s=
+tyle:
+     italic'>void</span></span><span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'> *<span class=3DSpellE>mem_heap_hi</span>(=
+void)</span>:&nbsp;
+     Returns a generic pointer to the last byte in the heap.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l1 level1 lfo4;tab-stops:list .5in'><span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>size_t</span></span><span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'> <span class=3DSpellE>mem_<span class=3DGr=
+amE>heapsize</span></span><span
+     class=3DGramE>(</span>void)</span>:&nbsp; Returns the current size of =
+the
+     heap in bytes.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l1 level1 lfo4;tab-stops:list .5in'><span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>size_t<=
+/span></span><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'> <span
+     class=3DSpellE>mem_<span class=3DGramE>pagesize</span></span><span
+     class=3DGramE>(</span>void)</span>:&nbsp; Returns the system&#8217;s p=
+age
+     size in bytes (4K on Linux systems).&nbsp; </li>
+</ul>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Provided
+Files</h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>The
+provided files are all available in the IT215 lab folder. To begin working =
+on
+the project, do the following:<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l7 level1 lfo5;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:12.0pt;font-weight:=
+normal;
+mso-bidi-font-weight:bold'>Copy all of the files in this directory to a
+protected directory in which you plan to do your work.<o:p></o:p></span></h=
+2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l7 level1 lfo5;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:12.0pt;font-weight:=
+normal;
+mso-bidi-font-weight:bold'>Type your team member names in the header commen=
+t at
+the top of </span><span class=3DSpellE><span style=3D'font-size:12.0pt;font=
+-family:
+"Courier New";font-weight:normal;mso-bidi-font-weight:bold'>mm.c</span></sp=
+an><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>.<o=
+:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l7 level1 lfo5;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:12.0pt;font-weight:=
+normal;
+mso-bidi-font-weight:bold'>Type the command </span><span style=3D'font-size=
+:12.0pt;
+font-family:"Courier New";font-weight:normal;mso-bidi-font-weight:bold'>mak=
+e</span><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'> to
+compile and link a basic memory allocator, the support routines, and the te=
+st
+driver.<o:p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>Loo=
+king
+at the </span><span class=3DSpellE><span style=3D'font-size:12.0pt;font-fam=
+ily:
+"Courier New";font-weight:normal;mso-bidi-font-weight:bold'>mm.c</span></sp=
+an><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'> fi=
+le,
+you will see that it contains a functionally correct (but very poorly
+performing) memory allocator. Your task is to modify this file to implement=
+ the
+best memory allocator that you can.<o:p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+The
+Trace-driven Driver Program</h2>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt;
+mso-layout-grid-align:none;text-autospace:none'>The driver program <span
+class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-style=
+:italic'>mdriver.c</span></span>
+tests your <span class=3DSpellE><span style=3D'font-family:"Courier New";
+mso-bidi-font-style:italic'>mm.c</span></span> package for correctness, spa=
+ce
+utilization, and throughput.&nbsp; The driver program is controlled by a se=
+t of
+<b>trace files</b> that are included in lab folder (<span class=3DSpellE><s=
+pan
+style=3D'font-family:"Courier New"'>config.h</span></span> indicates their
+location).&nbsp; Each trace file contains a sequence of allocate, reallocat=
+e,
+and free directions that instruct the driver to call your <span class=3DSpe=
+llE><span
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_malloc</s=
+pan></span>,
+<span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font=
+-style:
+italic'>mm_realloc</span></span>, and <span class=3DSpellE><span
+style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm_free</spa=
+n></span>
+routines in some sequence.&nbsp; <span style=3D'font-size:11.0pt;mso-fareas=
+t-font-family:
+Batang'>The driver and the trace files are the same ones we will use when we
+grade your <span class=3DSpellE>handin</span> </span><span class=3DSpellE><=
+span
+style=3D'font-family:Courier;mso-fareast-font-family:Batang;mso-bidi-font-f=
+amily:
+Courier'>mm.c</span></span><span style=3D'font-size:11.0pt;font-family:Cour=
+ier;
+mso-fareast-font-family:Batang;mso-bidi-font-family:Courier'> </span><span
+style=3D'font-size:11.0pt;mso-fareast-font-family:Batang'>file.<o:p></o:p><=
+/span></p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>T=
+he
+driver <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bi=
+di-font-style:
+italic'>mdriver.c</span></span> accepts the following command line
+arguments:&nbsp; </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l5 level1 lfo6;tab-stops:list .5in'><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>&#8211;=
+t <span
+     class=3DSpellE>tracedir</span></span>:&nbsp; Look for the default trace
+     files in directory <span class=3DSpellE><span style=3D'font-family:"Co=
+urier New";
+     mso-bidi-font-style:italic'>tracedir</span></span> instead of the defa=
+ult
+     directory defined in <span class=3DSpellE><span style=3D'font-family:"=
+Courier New";
+     mso-bidi-font-style:italic'>config.h</span></span>.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l5 level1 lfo6;tab-stops:list .5in'><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>&#8211;=
+f <span
+     class=3DSpellE>tracefile</span></span>:&nbsp; Use one particular <span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>tracefile</span></span><span style=3D'font-family:"Courier New=
+"'> </span>for
+     testing instead of the default set of <span class=3DSpellE>tracefiles<=
+/span>.&nbsp;
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l5 level1 lfo6;tab-stops:list .5in'><span
+     style=3D'mso-bidi-font-style:italic'>&#8211;h</span>:&nbsp; Print a su=
+mmary
+     of the command line arguments.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l5 level1 lfo6;tab-stops:list .5in'><span
+     style=3D'mso-bidi-font-style:italic'>&#8211;l</span>:&nbsp; Run and me=
+asure <span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>libc</span></span> <span class=3DSpellE>malloc</span> in addit=
+ion to
+     your <span class=3DSpellE>malloc</span> package.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l5 level1 lfo6;tab-stops:list .5in'><span
+     style=3D'mso-bidi-font-style:italic'>&#8211;v</span>:&nbsp; Verbose
+     output.&nbsp; Print a performance breakdown for each <span class=3DSpe=
+llE>tracefile</span>
+     in a compact table.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l5 level1 lfo6;tab-stops:list .5in'><span style=3D'mso-bidi-f=
+ont-style:
+     italic'>&#8211;V</span>:&nbsp; More verbose output.&nbsp; Prints
+     additional diagnostic information as each trace file is processed.&nbs=
+p;
+     Useful during debugging for determining which trace file is causing yo=
+ur <span
+     class=3DSpellE>malloc</span> package to fail.&nbsp; </li>
+</ul>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Programming
+Rules</h2>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l4 level1 lfo7;tab-stops:list .5in'>You shou=
+ld
+     not change any of the interfaces in <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm.c</s=
+pan></span>.&nbsp;
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     line-height:150%;mso-list:l4 level1 lfo7;tab-stops:list .5in'>You shou=
+ld
+     not invoke any memory-management related library calls or system
+     calls.&nbsp; This excludes the use of <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>malloc<=
+/span></span>,
+     <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi=
+-font-style:
+     italic'>calloc</span></span>, <span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'>free</span>, <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>realloc=
+</span></span>,
+     <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi=
+-font-style:
+     italic'>sbrk</span></span>, <span class=3DSpellE><span style=3D'font-f=
+amily:
+     "Courier New";mso-bidi-font-style:italic'>brk</span></span><span
+     style=3D'font-family:"Courier New"'> </span>or any variants of these c=
+alls
+     in your code.&nbsp; </li>
+ <li class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l4 level1 lfo7;tab-stops:list .5in'>Y=
+ou
+     are not allowed to define any global or <span style=3D'font-family:"Co=
+urier New";
+     mso-bidi-font-style:italic'>static</span> <span class=3DGramE>that are=
+</span>
+     arrays or <span class=3DSpellE>structs</span> in your <span class=3DSp=
+ellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>mm.c</s=
+pan></span>
+     program.&nbsp; However, this does not mean that you are prohibited from
+     using arrays and <span class=3DSpellE>structs</span>, only that the me=
+mory
+     for holding them must come from your heap. You are allowed to declare a
+     small number of scalar global variables such as integers, floats, and
+     pointers in <span class=3DSpellE><span style=3D'font-family:"Courier N=
+ew"'>mm.c</span></span>.</li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;margin-left:.5in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo7;tab-stops:list .5in'>For consistency with the =
+<span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>libc</span></span><span style=3D'font-family:"Courier New"'> <=
+span
+     class=3DSpellE><span style=3D'mso-bidi-font-style:italic'>malloc</span=
+></span></span>
+     package, which returns blocks aligned on 8-byte boundaries, your alloc=
+ator
+     must always return pointers that are aligned to 8-byte boundaries.&nbs=
+p;
+     The driver will enforce this requirement for you.&nbsp; </li>
+</ul>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Hints</h2>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormalCxSpFirst style=3D'mso-margin-top-alt:auto;mso-margin=
+-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l0 level1 lfo8;tab-stops:list .5in'><i
+     style=3D'mso-bidi-font-style:normal'><span style=3D'mso-bidi-font-weig=
+ht:bold'>Use
+     the</span></i><span style=3D'mso-bidi-font-weight:bold'> </span><span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+weight:
+     bold;mso-bidi-font-style:italic'>mdriver</span></span><span
+     style=3D'font-family:"Courier New";mso-bidi-font-weight:bold'> <span
+     style=3D'mso-bidi-font-style:italic'>&#8211;f</span></span><span
+     style=3D'mso-bidi-font-weight:bold'> <i style=3D'mso-bidi-font-style:n=
+ormal'>option</i>.</span>&nbsp;
+     During initial development, using tiny trace files will simplify debug=
+ging
+     and testing.&nbsp; We have included two such trace files (<span
+     class=3DGramE><span style=3D'font-family:"Courier New";mso-bidi-font-s=
+tyle:
+     italic'>short{</span></span><span style=3D'font-family:"Courier New";
+     mso-bidi-font-style:italic'>1,2}-<span class=3DSpellE>bal.rep</span></=
+span>)
+     that you can use for initial debugging.&nbsp;<span
+     style=3D'mso-spacerun:yes'>&nbsp; </span></li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;margin-left:.5in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l0 level1 lfo8;tab-stops:list .5in'><i
+     style=3D'mso-bidi-font-style:normal'><span style=3D'mso-bidi-font-weig=
+ht:bold'>Use
+     the </span></i><span class=3DSpellE><span style=3D'font-family:"Courie=
+r New";
+     mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>mdriver</span></=
+span><span
+     style=3D'font-family:"Courier New";mso-bidi-font-weight:bold'> <span
+     style=3D'mso-bidi-font-style:italic'>&#8211;v</span></span><i
+     style=3D'mso-bidi-font-style:normal'><span style=3D'mso-bidi-font-weig=
+ht:bold'>
+     and </span></i><span style=3D'font-family:"Courier New";mso-bidi-font-=
+weight:
+     bold;mso-bidi-font-style:italic'>&#8211;V</span><i style=3D'mso-bidi-f=
+ont-style:
+     normal'><span style=3D'mso-bidi-font-weight:bold'> options</span></i><=
+span
+     style=3D'mso-bidi-font-weight:bold'>.</span>&nbsp; The <span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>&#8211;=
+v</span>
+     option will give you a detailed summary for each trace file.&nbsp; The=
+ <span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>&#8211;=
+V</span>
+     will also indicate when each trace file is read, which will help you
+     isolate errors.&nbsp; </li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l0 level1 lfo8;tab-stops:list .5in'><i
+     style=3D'mso-bidi-font-style:normal'><span style=3D'mso-bidi-font-weig=
+ht:bold'>Compile
+     with </span></i><span class=3DSpellE><span style=3D'font-family:"Couri=
+er New";
+     mso-bidi-font-weight:bold;mso-bidi-font-style:italic'>gcc</span></span=
+><span
+     style=3D'font-family:"Courier New";mso-bidi-font-weight:bold;mso-bidi-=
+font-style:
+     italic'> &#8211;g</span><i style=3D'mso-bidi-font-style:normal'><span
+     style=3D'mso-bidi-font-weight:bold'> and use a debugger</span></i><span
+     style=3D'mso-bidi-font-weight:bold'>.</span>&nbsp; A debugger will hel=
+p you
+     isolate and identify out of bounds memory references.&nbsp; </li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;margin-left:.5in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l0 level1 lfo8;tab-stops:list .5in'><i
+     style=3D'mso-bidi-font-style:normal'><span style=3D'mso-bidi-font-weig=
+ht:bold'>Understand
+     every line of the provided <span class=3DSpellE>malloc</span> implemen=
+tation</span></i><span
+     style=3D'mso-bidi-font-weight:bold'>.</span>&nbsp; The lecture notes a=
+nd the
+     textbook describe how this simple implicit free list allocator
+     works.&nbsp; Don&#8217;t start working on your allocator until you
+     understand everything about this simple allocator.&nbsp; </li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:
+     auto;mso-add-space:auto;mso-list:l0 level1 lfo8;tab-stops:list .5in'><i
+     style=3D'mso-bidi-font-style:normal'><span style=3D'mso-bidi-font-weig=
+ht:bold'>Do
+     your implementation in stages</span></i><span style=3D'mso-bidi-font-w=
+eight:
+     bold'>.</span>&nbsp; The first 9 traces contain requests to <span
+     class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi-font-=
+style:
+     italic'>malloc</span></span><span style=3D'font-family:"Courier New"'>=
+ </span>and
+     <span style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>f=
+ree</span>.&nbsp;
+     The last 2 traces contain requests for <span class=3DSpellE><span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>realloc=
+</span></span>,
+     <span class=3DSpellE><span style=3D'font-family:"Courier New";mso-bidi=
+-font-style:
+     italic'>malloc</span></span>, and <span style=3D'font-family:"Courier =
+New";
+     mso-bidi-font-style:italic'>free</span>.&nbsp; We recommend that you s=
+tart
+     by getting your <span class=3DSpellE><span style=3D'font-family:"Couri=
+er New";
+     mso-bidi-font-style:italic'>malloc</span></span> and <span
+     style=3D'font-family:"Courier New";mso-bidi-font-style:italic'>free</s=
+pan><span
+     style=3D'font-family:"Courier New"'> </span>routines working correctly=
+ and
+     efficiently on the first 9 traces.&nbsp; Only then should you turn your
+     attention to the <span class=3DSpellE><span style=3D'font-family:"Cour=
+ier New";
+     mso-bidi-font-style:italic'>realloc</span></span> implementation.&nbsp;
+     The provided <span class=3DSpellE><span style=3D'font-family:"Courier =
+New"'>realloc</span></span>
+     implementation works by simply calling your <span class=3DSpellE><span
+     style=3D'font-family:"Courier New"'>malloc</span></span> and <span
+     style=3D'font-family:"Courier New"'>free </span>routines. But, to get =
+really
+     good performance, you will need to build a smarter <span class=3DSpell=
+E><span
+     style=3D'font-family:"Courier New"'>realloc</span></span> that calls <=
+span
+     class=3DSpellE><span style=3D'font-family:"Courier New"'>malloc</span>=
+</span>
+     and <span style=3D'font-family:"Courier New"'>free</span> less often.<=
+/li>
+</ul>
+
+<p class=3DMsoNormalCxSpMiddle style=3D'mso-margin-top-alt:auto;mso-margin-=
+bottom-alt:
+auto;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo8;tab-stops:list .5in'><span style=3D'mso-bidi-f=
+ont-weight:
+     bold'>Start early!</span>&nbsp; It is possible to write an efficient <=
+span
+     class=3DSpellE>malloc</span> package with a few pages of code.&nbsp;
+     However, we can guarantee that it will be some of the most difficult a=
+nd
+     sophisticated code you have written so far in your career.&nbsp; So st=
+art <span
+     class=3DGramE>early,</span> and good luck!&nbsp; </li>
+</ul>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Evaluation</h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>To =
+submit
+your code, be sure that your code and <span class=3DSpellE>writeup</span> a=
+re
+contained in files named <span class=3DSpellE>mm.c</span> and writeup.txt. =
+Note
+that we will only use your <span class=3DSpellE>mm.c</span> along with the =
+<span
+class=3DSpellE>orginal</span> files that were handed out to test your code,=
+ so
+you should not add or modify code in any other file (except during testing,=
+ as
+necessary). </span><span style=3D'font-size:12.0pt'>Remember that we will <i
+style=3D'mso-bidi-font-style:normal'>only</i> compile your <span class=3DSp=
+ellE>mm.c</span>
+file and nothing else!<o:p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>The
+project will be graded as follows:<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l3 level1 lfo9;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DGramE><i style=3D'mso-bidi-fon=
+t-style:
+normal'><span style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-we=
+ight:
+bold'>Performance (70 points)</span></i><span style=3D'font-size:12.0pt;
+font-weight:normal;mso-bidi-font-weight:bold'>.</span></span><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'> Yo=
+u will
+receive </span><span style=3D'font-size:12.0pt'>zero points</span><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'> fo=
+r performance
+if your solution fails any of the correctness tests performed by the driver
+program, if you break any of the programming rules, or if your code is buggy
+and crashes the driver program.<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>Oth=
+erwise,
+your performance score will be based on the following two metrics:<o:p></o:=
+p></span></h2>
+
+<h2 style=3D'margin-left:1.0in;text-indent:-.25in;mso-list:l3 level2 lfo9;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family=
+:"Courier New";
+font-weight:normal;mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignor=
+e'>o<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><!=
+[endif]><i
+style=3D'mso-bidi-font-style:normal'><span style=3D'font-size:12.0pt;font-w=
+eight:
+normal;mso-bidi-font-weight:bold'>Space utilization</span></i><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>: T=
+he
+peak ratio between the aggregate amount of memory used by the driver (i.e.,
+allocated via <span class=3DSpellE>mm_malloc</span> or <span class=3DSpellE=
+>mm_realloc</span>
+but not yet freed via <span class=3DSpellE>mm_free</span>) and the size of =
+the heap
+used by your allocator. The optimal ratio equals to 1. You should find good
+policies to minimize fragmentation in order to make this ratio as close as
+possible to the optimal.<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:1.0in;text-indent:-.25in;mso-list:l3 level2 lfo9;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:"Courier New";mso-fareast-font-family=
+:"Courier New";
+font-weight:normal;mso-bidi-font-weight:bold'><span style=3D'mso-list:Ignor=
+e'>o<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><!=
+[endif]><i
+style=3D'mso-bidi-font-style:normal'><span style=3D'font-size:12.0pt;font-w=
+eight:
+normal;mso-bidi-font-weight:bold'>Throughput</span></i><span style=3D'font-=
+size:
+12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>: The average number of
+operations completed per second.<o:p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<i
+style=3D'mso-bidi-font-style:normal'><span style=3D'font-size:12.0pt;font-w=
+eight:
+normal;mso-bidi-font-weight:bold'><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </spa=
+n><span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;</span></span></i><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>The
+driver program summarizes the performance of your allocator by computing a
+performance index, <i style=3D'mso-bidi-font-style:normal'>P</i>, which is a
+weighted sum of the space utilization and throughput<o:p></o:p></span></h2>
+
+<p style=3D'margin-left:.5in'><i>P =3D <span class=3DSpellE>wU</span> + (1&=
+#8722;w)
+min (1, T / <span class=3DSpellE>T<sub>libc</sub></span>)</i> </p>
+
+<h2 style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE><span style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-f=
+ont-weight:
+bold'>where</span></span><span style=3D'font-size:12.0pt;font-weight:normal;
+mso-bidi-font-weight:bold'> <i style=3D'mso-bidi-font-style:normal'>U</i> i=
+s your
+space utilization, <i style=3D'mso-bidi-font-style:normal'>T</i> is your th=
+roughput,
+and <span class=3DSpellE><i style=3D'mso-bidi-font-style:normal'>T<sub>libc=
+</sub></i></span><sub>
+</sub>is the estimated throughput of the </span><span class=3DSpellE><span
+style=3D'font-size:12.0pt;font-family:"Courier New";font-weight:normal;
+mso-bidi-font-weight:bold'>libc</span></span><span style=3D'font-size:12.0p=
+t;
+font-family:"Courier New";font-weight:normal;mso-bidi-font-weight:bold'> </=
+span><span
+class=3DSpellE><span style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-=
+font-weight:
+bold'>malloc</span></span><span style=3D'font-size:12.0pt;font-weight:norma=
+l;
+mso-bidi-font-weight:bold'> on your system on the default traces. The
+performance index favors throughput over space utilization, with a default =
+of <i
+style=3D'mso-bidi-font-style:normal'>w</i> =3D 0.4.<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>Obs=
+erving
+that both memory and CPU cycles are expensive system resources, we adopt th=
+is
+formula to encourage balanced optimization of both memory utilization and
+throughput. Ideally, the performance index will reach <i style=3D'mso-bidi-=
+font-style:
+normal'>P</i> =3D <i style=3D'mso-bidi-font-style:normal'>w</i> + (1 &#8211=
+; <i
+style=3D'mso-bidi-font-style:normal'>w</i>) =3D 1 or 100%. Since each metri=
+c will
+contribute at most <i style=3D'mso-bidi-font-style:normal'>w </i>and 1 &#82=
+11; <i
+style=3D'mso-bidi-font-style:normal'>w</i> to the performance index,
+respectively, you should not go to extremes to optimize either the memory
+utilization or the throughput only. To receive a good score, you must achie=
+ve a
+balance between utilization and throughput. <o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>Not=
+e that
+your utilization score will remain the same on all machines, but your
+throughput score may vary with the load on the particular machine that you =
+are
+using (we will use an otherwise unloaded machine for grading).<o:p></o:p></=
+span></h2>
+
+<h2 style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>The
+provided implementation already achieves a performance index of 30/100. Sin=
+ce
+your task is to build a better memory allocator that we provided to you, yo=
+ur
+performance score will be the performance index of your allocator minus 30.=
+<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>Do =
+not
+expect to receive all 70 performance points. While it is relatively easy to
+achieve high throughput, it is much more difficult to achieve high utilizat=
+ion.
+<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;mso-add-space:auto;text-indent:-.25in;mso-lis=
+t:
+l3 level1 lfo9;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.=
+6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt=
+'><![if !supportLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><i style=3D'mso-bidi-font-style:normal'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>Sty=
+le (20
+points)</span></i><span style=3D'font-size:12.0pt;font-weight:normal;mso-bi=
+di-font-weight:
+bold'>. This includes general program style and the thoroughness and
+documentation of your heap consistency checker </span><span class=3DSpellE>=
+<span
+style=3D'font-size:12.0pt;font-family:"Courier New";font-weight:normal;
+mso-bidi-font-weight:bold'>checkheap</span></span><span style=3D'font-size:=
+12.0pt;
+font-weight:normal;mso-bidi-font-weight:bold'>.<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;mso-add-space:auto;tab-stops:45.8pt 91.6pt 13=
+7.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6=
+pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'><o:=
+p>&nbsp;</o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l3 level1 lfo9;
+tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412=
+.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !suppor=
+tLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE><span class=3DGramE><i
+style=3D'mso-bidi-font-style:normal'><span style=3D'font-size:12.0pt;font-w=
+eight:
+normal;mso-bidi-font-weight:bold'>Writeup</span></i></span></span><span
+class=3DGramE><i style=3D'mso-bidi-font-style:normal'><span style=3D'font-s=
+ize:12.0pt;
+font-weight:normal;mso-bidi-font-weight:bold'> (10 points)</span></i><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>.</=
+span></span><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'><o:=
+p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Turn
+In Instructions</h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>This
+project will be submitted via <span class=3DSpellE>moodle</span>. Be sure t=
+hat
+you have included your team details in the comment at the top of </span><sp=
+an
+class=3DSpellE><span style=3D'font-size:12.0pt;font-family:"Courier New";
+font-weight:normal;mso-bidi-font-weight:bold'>mm.c</span></span><span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'> and
+removed any extraneous print statements. <o:p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+DUE
+DATE</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>2=
+1:55
+hrs, Monday, March 3.<span style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p style=3D'tab-stops:list .5in'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01CF2BC9.5B5769F0
+Content-Location: file:///C:/2047BE43/project1-malloc_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+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
+cmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA=
+
+------=_NextPart_01CF2BC9.5B5769F0
+Content-Location: file:///C:/2047BE43/project1-malloc_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01CF2BC9.5B5769F0
+Content-Location: file:///C:/2047BE43/project1-malloc_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../project1-malloc.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01CF2BC9.5B5769F0--

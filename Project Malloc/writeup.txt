@@ -1,0 +1,64 @@
+<Racharla Akhil(201201171),Allu Chaitanya(201201149)>
+IT 215 Project 1: Malloc Dynamic Memory Allocator
+<10/03/2014>
+
+DESCRIPTION
+* Allocates required memory asked by the user in the heap and returns the pointer to its payload.If required memory is not found in the existing heap it extends the heap. It can also reallocate the memory to required size(either shrinking the current block or expanding it when its next block is free with required size or reallocate at a free block in the segregated free list we use). When a certain allocated block is not in use free function can be used to free the block. As the function frees the block it also does coalescing and adds the new free block to the segregated free list, we can use for new allocations.
+
+DESIGN
+* We used a segregated free list.
+
+* During initialistion a certain 'l+1'(we took l = 50) blocks(of size 'WSIZE') used for segregation are gotten by using mem_sbrk() and each block is initialised to '0'.Each of this block is used as a root for the linked list containing free blocks of sizerange bls (here bls = 7500). 
+Eg: First linked list contains free blocks of size range 0-7499,Second list contains free blocks of size range 7500-14999 so on .
+* If the size of free blocks are greater than mls (here mls =  7500*50 = 375000 ), they are added to the last(l+1 th) free list.
+* Everytime a new free block is created it is inserted to the start of the list according to its size range using add() function.
+                          
+                           --add() : Free block is added to the start of the appropriate list(size of freeblock/bls). Address of the root is 
+                                     stored   at the address - payload+4 of the new free block(pointer to previous free block) and the address of
+                                     the free block previously pointed by root is stored at the address payload of new free block(pointer to the
+                                     next free block). If previously root is not pointing to any free block then next pointer of the new free block
+                                     is set to '0'. Address of the payload of the new free block is stored in previous pointer of the free block
+                                     previously pointed by the root. Now root is made to point to the payload of new free block.
+                               
+* Deleting a free block from the segregated free list: A free block is deleted from the segregated free list using delete() function
+                          
+                          --delete(void *bp) : Free block whose payload is pointed by bp is deleted by making the next pointer of its previous
+                                               block point to its next free block and the previous pointer of its next free block point to the
+                                               previous free block of the block to be deleted.
+
+* How a block is allocated : 
+                             When the malloc() is called with argument 'size', block size is adjusted to include overhead and alignment requirements. The find_fit() is called which returns pointer to the payload of the block to be allocated or returns null if no block is found with required size. 
+                         --find_fit() : It goes into the appropriate list according to required size and searches for a block with size greater
+                                        than or equal to the required size.If the block is found in the list pointer to its payload is returned
+                                        and it is deleted from the segrgated free list. If the list is the last one(l+1 th) and no block is found
+                                        with required size it directly returns null. If it isn't the last list and no block is found in its
+                                        appropriate list it searches in the next lists iteratively and if it finds a block with our required size
+                                        it returns the pointer to its payload and it is deleted from the segregated free list,else it returns
+                                        null.
+         If find_fit() returns a pointer then place() is called, which creates the allocated block of required size and a new free block with the
+         remaining size if possible. 
+                         --place() : If the size of the block to be allocated is greater by DSIZE bytes than the required size a new free
+                                     block of size (size of the block-required size) and a block with required size and is labelled as
+                                     allocated.The new free block formed is added to the segregated free list. If the size of the block to be 
+                                     allocated is not greater by DSIZE bytes than the required size the total block is labelled as        
+				     allocated. 
+         If find_fit() returns null then the extend_heap() is called and the pointer returned is passed to place().
+* Reallocation : When the realloc() is called with argument 'size' , block size is adjusted to include overhead and alignment requirements. 
+                -->If the 'size' is lesser than the 'oldsize' of the block by 2*DSIZE bytes it is shrunk to 'size' bytes and a new free block is
+                  created with size (oldsize-size) and coalesce() is called. 
+                -->If oldsize and size are equal, pointer of the oldblock is directly returned.
+                -->If ('oldsize'-'size') is DSIZE and the next block is free then the current block is shrunk to the required size and the remaining
+                  bytes are added to the next free block.
+                -->If 'size' is greater than 'oldsize' and next block is free and of size greater than or equal to ('size'-'oldsize'+2*DSIZE),next
+                  block is deleted from the segregated free list and current block is extended to the required size and a new free block is formed
+                  with the remaining size and added to the segregated free list.
+                -->If above conditions fail, malloc() is called to allocate the block of size 'size' bytes and data from the old block is copied to
+                  the new location and old block is freed.
+                               
+
+TESTING STRATEGY
+* short1-bal.rep is used to debug our code during the initial stages by using heapchecker functions. Later we used the first 9 trace files given
+to check the efficiency of malloc() and free() functions and changed 'bls','mls','l' parameters as needed. Then we concentrated on realloc() code and developed it checking with the realloc and realloc2 trace files.
+
+
+
